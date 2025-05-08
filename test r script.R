@@ -1,1 +1,1 @@
-sdafjaks
+example("plot")
