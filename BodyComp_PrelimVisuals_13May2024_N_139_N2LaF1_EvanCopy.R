@@ -41,6 +41,12 @@ table(bc_data$population)
 # ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
+######### Evan addition
+
+write.csv(bc_data, "./testing_write_to_csv_for_deer_mice.csv")
+
+######### end Evan addition
+
 ### ~~~~~~~~~~~~~~~
 ###
 ### Visualize data:
